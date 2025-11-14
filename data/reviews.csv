@@ -1,0 +1,22 @@
+review_id,customer_id,product_id,rating,comment,review_date
+R9001,1,P001,5,"Comfortable fabric and perfect fit",2023-03-01
+R9002,3,P003,4,"Great sound quality but slightly heavy",2023-04-05
+R9003,2,P006,5,"Shoes are light and supportive for long runs",2023-04-12
+R9004,5,P004,4,"Keeps water cool for hours, good quality",2023-05-02
+R9005,4,P014,3,"Responsive buttons but finish could be better",2023-05-20
+R9006,7,P018,5,"Plenty of space and sturdy zippers",2023-06-10
+R9007,9,P016,4,"Keys feel solid though battery drains faster",2023-06-30
+R9008,8,P012,5,"Warm glow and well-built lamp",2023-07-08
+R9009,10,P015,4,"Cookware heats evenly, handles get warm",2023-07-22
+R9010,12,P018,5,"Excellent capacity for weekend trips",2023-08-05
+R9011,11,P009,4,"Good bass, battery could last longer",2023-08-18
+R9012,13,P013,5,"Skin feels refreshed, mild fragrance",2023-09-01
+R9013,14,P007,4,"Accurate tracking, strap quality ok",2023-09-12
+R9014,15,P010,5,"Soft fabric and vibrant colors",2023-09-28
+R9015,16,P020,5,"Rich color and premium texture",2023-10-06
+R9016,17,P017,4,"Stylish look, lenses scratch easily",2023-10-15
+R9017,18,P008,5,"Bright light and adjustable angles",2023-10-24
+R9018,19,P006,4,"Comfortable but sizing runs small",2023-11-02
+R9019,20,P001,5,"Beautiful saree with fine detailing",2023-11-10
+R9020,6,P005,4,"Fresh aroma, good for daily brew",2023-11-18
+

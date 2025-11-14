@@ -1,0 +1,22 @@
+customer_id,name,email,phone,created_at,city,state
+1,Ananya Rao,ananya.rao@example.com,+91-9876543210,2023-01-05,Bengaluru,Karnataka
+2,Rohit Sharma,rohit.sharma@example.com,+91-9820012345,2023-02-11,Mumbai,Maharashtra
+3,Kavya Nair,kavya.nair@example.com,+91-9812345678,2023-03-20,Thiruvananthapuram,Kerala
+4,Arjun Patel,arjun.patel@example.com,+91-9898989898,2023-04-02,Ahmedabad,Gujarat
+5,Neha Gupta,neha.gupta@example.com,+91-9911223344,2023-05-15,Delhi,Delhi
+6,Manish Verma,manish.verma@example.com,+91-9922334455,2023-06-18,Jaipur,Rajasthan
+7,Priya Kulkarni,priya.kulkarni@example.com,+91-9876501234,2023-07-07,Pune,Maharashtra
+8,Sameer Khan,sameer.khan@example.com,+91-9811112233,2023-08-25,Hyderabad,Telangana
+9,Sneha Iyer,sneha.iyer@example.com,+91-9899001122,2023-09-30,Chennai,Tamil Nadu
+10,Vikram Singh,vikram.singh@example.com,+91-9845098450,2023-10-12,Chandigarh,Chandigarh
+11,Disha Mukherjee,disha.mukherjee@example.com,+91-9876123450,2023-10-25,Kolkata,West Bengal
+12,Harshad Mehta,harshad.mehta@example.com,+91-9810002345,2023-11-03,Surat,Gujarat
+13,Ritu Malhotra,ritu.malhotra@example.com,+91-9900112233,2023-11-16,Lucknow,Uttar Pradesh
+14,Tejas Desai,tejas.desai@example.com,+91-9812233445,2023-11-20,Vadodara,Gujarat
+15,Aditi Menon,aditi.menon@example.com,+91-9823456789,2023-11-28,Kochi,Kerala
+16,Saurabh Pillai,saurabh.pillai@example.com,+91-9797979797,2023-12-05,Bhopal,Madhya Pradesh
+17,Meera Chawla,meera.chawla@example.com,+91-9712345670,2023-12-12,Gurugram,Haryana
+18,Aditya Bose,aditya.bose@example.com,+91-9700011111,2023-12-18,Bhubaneswar,Odisha
+19,Farhan Qureshi,farhan.qureshi@example.com,+91-9688887777,2023-12-22,Indore,Madhya Pradesh
+20,Kanika Talwar,kanika.talwar@example.com,+91-9676765656,2023-12-29,Noida,Uttar Pradesh
+

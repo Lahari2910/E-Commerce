@@ -1,0 +1,22 @@
+product_id,product_name,category,price,in_stock,added_at
+P001,Classic Cotton Kurta,Apparel,1499.00,TRUE,2023-01-10
+P002,Leather Wallet,Accessories,999.00,TRUE,2023-01-15
+P003,Noise Cancelling Headphones,Electronics,5499.00,FALSE,2023-02-05
+P004,Stainless Steel Water Bottle,Home & Kitchen,699.00,TRUE,2023-02-20
+P005,Organic Green Tea Pack,Grocery,399.00,TRUE,2023-03-12
+P006,Running Shoes,Footwear,2999.00,TRUE,2023-03-25
+P007,Smart Fitness Band,Wearables,2499.00,TRUE,2023-04-04
+P008,LED Desk Lamp,Home Decor,1599.00,TRUE,2023-04-15
+P009,Portable Bluetooth Speaker,Electronics,2299.00,FALSE,2023-05-01
+P010,Cotton Bedsheet Set,Home & Kitchen,1799.00,TRUE,2023-05-18
+P011,Handcrafted Terracotta Vase,Home Decor,1299.00,TRUE,2023-06-02
+P012,Himalayan Rock Salt Lamp,Home Decor,1899.00,TRUE,2023-06-20
+P013,Herbal Skincare Kit,Beauty,1599.00,TRUE,2023-07-08
+P014,Gaming Mouse,Electronics,1999.00,TRUE,2023-07-22
+P015,Stainless Cookware Set,Home & Kitchen,3499.00,TRUE,2023-08-05
+P016,Wireless Keyboard,Electronics,2499.00,TRUE,2023-08-18
+P017,Bamboo Sunglasses,Accessories,1499.00,TRUE,2023-09-01
+P018,Travel Backpack,Accessories,2599.00,TRUE,2023-09-14
+P019,Artisanal Coffee Beans,Grocery,799.00,TRUE,2023-10-03
+P020,Silk Saree,Apparel,4999.00,TRUE,2023-10-21
+
