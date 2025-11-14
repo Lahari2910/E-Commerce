@@ -1,0 +1,84 @@
+Prompts used for generating code in this project (full instructions from the user):
+
+1. "Generate 5 synthetic e-commerce dataset files in CSV format. 
+Each file should contain realistic sample data, with appropriate datatypes and relational consistency.
+Files to generate:
+1. customers.csv  
+   Columns:
+   - customer_id (unique, integer)
+   - name
+   - email
+   - phone
+   - created_at (date)
+   - city
+   - state
+2. products.csv  
+   Columns:
+   - product_id (unique)
+   - product_name
+   - category
+   - price
+   - in_stock (boolean)
+   - added_at (date)
+3. orders.csv  
+   Columns:
+   - order_id (unique)
+   - customer_id (must match customers.csv)
+   - order_date
+   - total_amount
+   - payment_method (UPI, Card, COD)
+   - order_status (Delivered, Cancelled, Processing)
+4. order_items.csv  
+   Columns:
+   - item_id (unique)
+   - order_id (must match orders.csv)
+   - product_id (must match products.csv)
+   - quantity
+   - item_price
+5. reviews.csv  
+   Columns:
+   - review_id (unique)
+   - customer_id (matches customers.csv)
+   - product_id (matches products.csv)
+   - rating (1–5)
+   - comment
+   - review_date
+Additional instructions:
+- Generate around 20-50 rows per file.
+- Ensure foreign keys are consistent across files.
+- Use realistic values (names, categories, Indian cities, etc.).
+- Save each file in CSV format in the “/data” folder of the workspace.
+Ignore all shell commands. Directly generate the 5 CSV files with synthetic ecommerce data and save them in a folder named data. Don’t check directories."
+
+2. "I have 5 CSV files inside a folder called “data” (customers, products, orders, order_items, reviews).
+I want to ingest all these files into an SQLite database.
+Create a new SQLite database file named “ecom.db” in the workspace.
+Then write the code to:
+1. Create tables for each CSV with the correct schema
+2. Load the CSV data into those tables
+3. Make sure the foreign key relationships are enabled (customer_id, product_id, order_id)
+4. If any table already exists, drop and recreate it
+5. After loading, print a simple count of rows from each table to confirm everything is inserted properly
+Use Python (sqlite3 + pandas) or any approach you prefer, but keep the code simple and clean."
+
+3. "I have an SQLite database (ecom.db) with the following tables: customers, products, orders, order_items, and reviews.
+Write an SQL query that joins multiple tables together and produces a meaningful output. 
+The output should show:
+- order_id
+- customer_name
+- product_name
+- quantity
+- item_price
+- total_amount (from orders table)
+- order_date
+- city (from customers)
+- category (from products)
+Use proper JOINs between:
+orders → customers  
+orders → order_items  
+order_items → products  
+Also include an ORDER BY on order_date (latest first).
+After writing the query, also run it against the loaded database so I can see a sample output."
+
+
+
